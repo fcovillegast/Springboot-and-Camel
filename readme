@@ -1,1 +1,5 @@
-esto es un ejemplo
+Para probar el ejemplo hay que hacer sub post sobre /camel/api/bean con un JSON en el body
+
+{ id : 1 , "name" : "Francisco"}
+
+Entonces retornará un { id : 10 , "Francisco" }
